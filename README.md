@@ -1,10 +1,11 @@
 #Basic Project
 
-*Simple Project*
+*Simple Java Project*
 
 **Java 7**
 
 * Java Application
+* JUnit
 
 Simple Java Application. 
 
